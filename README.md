@@ -8,13 +8,15 @@
 
 <p align="left"> <a href="https://twitter.com/saifahmad786sm" target="blank"><img src="https://img.shields.io/twitter/follow/saifahmad786sm?logo=twitter&style=for-the-badge" alt="saifahmad786sm" /></a> </p>
 
+<img algin="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/master/gif3.gif">
+
 - 🔭 I’m currently working on **30 Days Work Challenge**
 
 - 🌱 I’m currently learning **Figma & Block Chain**
 
 - 👨‍💻 All of my projects are available at [https://saif007s.github.io/My-Portfolio/](https://saif007s.github.io/My-Portfolio/)
 
-- 💬 Ask me about **4th year Computer Science Student. I am Skilled with Java(OOPS), DSA with Java, Python, C & Full Stack Developer.**
+- 💬 Ask me about **Figma & Full Stack Development**
 
 - 📫 How to reach me **saifahmad786sm@gmail.com**
 
