@@ -35,3 +35,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=saif007s&show_icons=true&locale=en" alt="saif007s" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=saif007s&" alt="saif007s" /></p>
+![Snake animation](https://github.com/saif007s/saif007s/blob/output/github-contribution-grid-snake.svg)
