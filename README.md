@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Saif Ahmad</h1>
 <div align="center"> <img src="https://raw.githubusercontent.com/saif007s/saif007s/main/banner.png"></div>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
+<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=saif007s&label=Profile%20views&color=0e75b6&style=flat" alt="saif007s" /> </p>
 
@@ -8,7 +9,6 @@
 
 <p align="left"> <a href="https://twitter.com/saifahmad786sm" target="blank"><img src="https://img.shields.io/twitter/follow/saifahmad786sm?logo=twitter&style=for-the-badge" alt="saifahmad786sm" /></a> </p>
 
-<img algin="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on **30 Days Work Challenge**
 
