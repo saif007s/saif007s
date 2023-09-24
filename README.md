@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/saifahmad786sm" target="blank"><img src="https://img.shields.io/twitter/follow/saifahmad786sm?logo=twitter&style=for-the-badge" alt="saifahmad786sm" /></a> </p>
 
-<img algin="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/master/gif3.gif">
+<img algin="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif">
 
 - 🔭 I’m currently working on **30 Days Work Challenge**
 
