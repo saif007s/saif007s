@@ -11,9 +11,7 @@
 
 - 🔭 I’m currently working on **30 Days Work Challenge**
 
-- 🌱 I’m currently learning **Figma & Block Chain**
-
-- 👨‍💻 All of my projects are available at [https://saif007s.github.io/My-Portfolio/](https://saif007s.github.io/My-Portfolio/)
+- 👨‍💻 All of my projects are available at [Check My Portfolio](https://saifahmad07.vercel.app/)
 
 - 💬 Ask me about **Figma & Full Stack Development**
 
