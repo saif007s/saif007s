@@ -20,8 +20,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/saifahmad786sm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="saifahmad786sm" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/saifahmad007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saifahmad007" height="30" width="40" /></a>
-<a href="https://instagram.com/saifahmad007s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saifahmad007s" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/saifahmad007" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="saif_007s" height="30" width="40" /></a>
+<a href="https://instagram.com/saif_007s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="saif_007s" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
