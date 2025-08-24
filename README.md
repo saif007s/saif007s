@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [Check My Portfolio](https://saifahmad07.vercel.app/)
 
-- Check My **UI/UX Portfolio** at(https://saifahmadin.vercel.app/)
+- Check My **UI/UX Portfolio** [Click Me](https://saifahmadin.vercel.app/)
 
 - 💬 Ask me about **Figma & Full Stack Development**
 
