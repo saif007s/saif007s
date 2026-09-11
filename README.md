@@ -1,133 +1,464 @@
-<h1 align="center">Hi, I'm Saif Ahmad 👋</h1>
-<h3 align="center">AI Engineer | UI/UX Designer | Full Stack Developer</h3>
+<h1 align="center">Hi 👋, I'm Saif Ahmad</h1>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/saif007s/saif007s/main/banner.png" width="100%" alt="banner"/>
-</div>
-
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Building+AI-powered+products;Designing+human-centered+experiences;Full+Stack+Development+%7C+MERN;Turning+ideas+into+intelligent+interfaces" alt="Typing SVG" />
-</div>
+<h3 align="center">AI Engineer • UI/UX & Product Designer • Creative Technologist</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saif007s&label=Profile%20views&color=0e75b6&style=flat" alt="saif007s" />
-  <a href="https://twitter.com/saifahmad786sm"><img src="https://img.shields.io/twitter/follow/saifahmad786sm?logo=twitter&style=for-the-badge&color=0e75b6" /></a>
+  <a href="https://saifahmadin.vercel.app/">UI/UX Portfolio</a> •
+  <a href="https://saifahmad07.vercel.app/">Developer Portfolio</a> •
+  <a href="https://github.com/saif007s">GitHub</a> •
+  <a href="https://www.linkedin.com/in/saifahmad007">LinkedIn</a>
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saif007s/saif007s/main/banner.png" alt="Saif Ahmad Banner" width="100%">
 </p>
 
 ---
 
-### 🧠 About Me
+## 🚀 About Me
 
-- 🤖 I design and build **AI-powered applications** — from LLM-integrated products to intelligent automation tools
-- 🎨 I craft **UI/UX experiences** that balance usability, accessibility, and visual polish
-- 💻 I'm a **Full Stack Developer** who ships end-to-end — design → frontend → backend → deployment
-- 🔭 Currently working on a **30-Day Build Challenge** — shipping AI + product experiments weekly
-- 🌱 Deepening my expertise in **LLM application development, RAG pipelines, and agentic workflows**
-- 💬 Ask me about **AI Product Design, Figma, and Full Stack Development**
-- 📫 Reach me at **saifahmad786sm@gmail.com**
+I'm **Saif Ahmad**, an **AI Engineer and UI/UX & Product Designer** from India, passionate about building intelligent, scalable, and user-centered digital products.
 
-### 🔗 Portfolio
+I work at the intersection of **Artificial Intelligence, Software Engineering, Product Design, and Human-Computer Interaction**.
 
-<p align="left">
-  <a href="https://saifahmad07.vercel.app/"><img src="https://img.shields.io/badge/Dev%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-  <a href="https://saifahmadin.vercel.app/"><img src="https://img.shields.io/badge/UI%2FUX%20Portfolio-FF3366?style=for-the-badge&logo=figma&logoColor=white" /></a>
+* 🤖 Building AI-powered applications, LLM workflows, RAG systems & intelligent agents
+* 🧠 Exploring Machine Learning, Deep Learning, Generative AI & NLP
+* 🎨 Designing intuitive, accessible & user-centered digital experiences
+* 💻 Developing full-stack applications and AI-powered products
+* 🔬 Interested in AI Agents, Multimodal AI, LLM Applications & AI Engineering
+* 🧩 Creating scalable design systems and high-fidelity prototypes in Figma
+* ☁️ Exploring cloud, MLOps, APIs, Docker & production AI systems
+* 🚀 Currently working on personal AI & product-design projects
+* 📚 Continuously learning and building in public
+
+> **My goal:** Build technology that is intelligent under the hood and simple on the surface.
+
+---
+
+## 🧑‍💻 What I Do
+
+| Area                    | Focus                                                |
+| ----------------------- | ---------------------------------------------------- |
+| 🤖 AI Engineering       | LLMs, RAG, AI Agents, GenAI, NLP, ML                 |
+| 🧠 Machine Learning     | Supervised Learning, Deep Learning, Model Evaluation |
+| ⚙️ AI Applications      | AI Assistants, Copilots, Search, Automation          |
+| 🎨 UI/UX Design         | User Research, Wireframes, Prototypes, Usability     |
+| 📦 Product Design       | 0→1 Products, Design Systems, Product Strategy       |
+| 💻 Software Engineering | Full-Stack Web Applications & APIs                   |
+| ☁️ Cloud & MLOps        | Docker, CI/CD, AWS, GCP, Model Deployment            |
+| 🔌 Backend              | Python, FastAPI, Flask, Node.js, REST APIs           |
+| 🗄️ Data                | SQL, PostgreSQL, MongoDB, Redis                      |
+| 🎯 Product Thinking     | User Problems → Research → Design → Build → Measure  |
+
+---
+
+# 🤖 AI Engineering Skills
+
+### Artificial Intelligence & Machine Learning
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
+</p>
+
+**Core AI**
+
+* Machine Learning
+* Deep Learning
+* Natural Language Processing
+* Computer Vision
+* Generative AI
+* Large Language Models
+* Transformer Architectures
+* Embeddings
+* Semantic Search
+* Recommendation Systems
+* Model Evaluation
+* Feature Engineering
+* Data Preprocessing
+* Fine-Tuning
+* Prompt Engineering
+
+### 🧠 LLM & Generative AI
+
+* OpenAI APIs
+* LLM Application Development
+* Retrieval-Augmented Generation (RAG)
+* Vector Search
+* Embeddings
+* Prompt Engineering
+* Function Calling
+* Tool Use
+* AI Agents
+* Agentic Workflows
+* Multimodal AI
+* Structured Outputs
+* Context Engineering
+* LLM Evaluation
+* AI Automation
+
+### 🔎 RAG & AI Search
+
+* Document Processing
+* Chunking Strategies
+* Embedding Pipelines
+* Vector Databases
+* Hybrid Search
+* Semantic Search
+* Metadata Filtering
+* Retrieval Pipelines
+* Reranking
+* Context Optimization
+* RAG Evaluation
+
+### 🤖 AI Agents
+
+* Agent Architecture
+* Tool Calling
+* Multi-Agent Systems
+* Workflow Automation
+* Memory Systems
+* Planning & Reasoning Workflows
+* MCP
+* API & Tool Integration
+* Autonomous Task Workflows
+
+---
+
+# 🎨 UI/UX & Product Design
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
+</p>
+
+### UX Design
+
+* User Research
+* User Interviews
+* Personas
+* Jobs-to-be-Done
+* User Journey Mapping
+* Information Architecture
+* User Flows
+* Wireframing
+* Prototyping
+* Usability Testing
+* Heuristic Evaluation
+* Accessibility
+* Interaction Design
+
+### Product Design
+
+* Product Discovery
+* Problem Definition
+* Design Thinking
+* 0→1 Product Design
+* MVP Design
+* Product Strategy
+* UX Strategy
+* Design Critique
+* Product Metrics
+* Conversion Optimization
+
+### Design Systems
+
+* Design Tokens
+* Typography Systems
+* Color Systems
+* Spacing Systems
+* Components
+* Variants
+* Auto Layout
+* Variables
+* Responsive Design
+* Accessibility
+* Component Libraries
+* Developer Handoff
+
+### Tools
+
+* Figma
+* FigJam
+* Adobe Illustrator
+* Adobe Photoshop
+* Framer
+* ProtoPie
+* Miro
+* Notion
+
+---
+
+# 💻 Software Engineering
+
+### Languages
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+</p>
+
+**Python • JavaScript • TypeScript • Java • C • SQL**
+
+### Frontend
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
+</p>
+
+* React
+* Next.js
+* TypeScript
+* JavaScript
+* HTML5
+* CSS3
+* Tailwind CSS
+* Bootstrap
+* Responsive Web Design
+* Component Architecture
+
+### Backend
+
+* Python
+* FastAPI
+* Flask
+* Node.js
+* Express.js
+* REST APIs
+* Authentication
+* API Integration
+* Microservices Fundamentals
+
+### Databases
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
+</p>
+
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
+* Database Design
+* Query Optimization
+* Data Modeling
+
+---
+
+# ☁️ Cloud, DevOps & MLOps
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+</p>
+
+* AWS
+* Google Cloud
+* Azure
+* Docker
+* Git
+* GitHub
+* GitHub Actions
+* CI/CD
+* Linux
+* Vercel
+* Firebase
+* Model Deployment
+* API Deployment
+* ML Pipelines
+* Monitoring & Observability
+* MLOps Fundamentals
+
+---
+
+# 🛠️ Developer Tools
+
+<p>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+</p>
+
+**VS Code • Git • GitHub • Postman • Jupyter • Linux • npm • REST APIs • JSON • Markdown**
+
+---
+
+# 🧪 AI Engineering Projects
+
+### 🤖 AI Research Assistant
+
+An intelligent research assistant capable of searching, retrieving, summarizing and synthesizing information using LLMs and RAG.
+
+**Tech:** Python • FastAPI • LLMs • RAG • Vector Database • React
+
+### 🧠 AI Coding Copilot
+
+An AI-powered developer assistant that understands codebases, generates code, explains errors and assists with debugging.
+
+**Tech:** Python • LLM APIs • RAG • Embeddings • TypeScript • React
+
+### 🔎 Multimodal AI Search
+
+A semantic search platform capable of understanding text, images and documents through multimodal embeddings.
+
+**Tech:** Python • Embeddings • Vector Search • Computer Vision • LLMs
+
+### 🤖 Autonomous AI Agent
+
+An agentic AI system capable of planning tasks, selecting tools, executing actions and returning structured results.
+
+**Tech:** Python • LLMs • Tool Calling • MCP • APIs • Agent Workflows
+
+---
+
+# 🎨 Featured Product Design Projects
+
+### 💳 FinTech Mobile Experience
+
+End-to-end UX process covering research, information architecture, user flows, wireframes, visual design and high-fidelity prototype.
+
+### 🚕 Mobility & Ride-Hailing Platform
+
+Designed passenger and driver experiences with booking flows, maps, payments, trip management and real-time status.
+
+### 📊 SaaS Analytics Dashboard
+
+Designed a scalable dashboard system with data visualization, filters, tables, responsive layouts and reusable components.
+
+### 🏥 Healthcare Experience
+
+Designed an accessible healthcare product focused on appointments, patient information, prescriptions and communication.
+
+---
+
+# 🔥 Current Focus
+
+```text
+AI Engineering
+├── Machine Learning
+├── Deep Learning
+├── NLP
+├── Generative AI
+├── LLM Applications
+├── RAG
+├── AI Agents
+├── Multimodal AI
+└── MLOps
+
+Product Design
+├── UX Research
+├── Product Strategy
+├── User Experience
+├── Interaction Design
+├── Design Systems
+├── Prototyping
+└── Accessibility
+
+Software Engineering
+├── Python
+├── FastAPI
+├── React
+├── Next.js
+├── TypeScript
+├── PostgreSQL
+├── Docker
+└── Cloud
+```
+
+---
+
+# 📈 GitHub Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=saif007s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saif007s&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif007s&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
 </p>
 
 ---
 
-### 🛠️ Tech Stack
+# 🏆 GitHub Achievements
 
-**AI / Machine Learning**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/OpenAI%20API-412991?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-</p>
-
-**UI / UX Design**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
-  <img src="https://img.shields.io/badge/Adobe%20XD-FF61F6?style=for-the-badge&logo=adobexd&logoColor=white" />
-  <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=for-the-badge&logo=adobeillustrator&logoColor=white" />
-  <img src="https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobephotoshop&logoColor=white" />
-</p>
-
-**Frontend**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" />
-</p>
-
-**Backend & Databases**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" />
-</p>
-
-**Cloud, DevOps & Tools**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
-</p>
-
-**Mobile**
-
-<p align="left">
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=saif007s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
 </p>
 
 ---
 
-### 📊 GitHub Analytics
+# 📊 Contribution Graph
 
 <p align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=saif007s&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif007s&layout=compact&theme=tokyonight&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saif007s&theme=tokyonight" alt="saif007s streak stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saif007s&theme=tokyo-night" alt="activity graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saif007s&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-### 🌐 Connect with Me
+# 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://linkedin.com/in/saifahmad007" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://twitter.com/saifahmad786sm" target="blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://instagram.com/saif_007s" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
-  <a href="https://youtube.com/@saif007s?si=8wY0VXNTGEeWIZb6" target="blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
-  <a href="mailto:saifahmad786sm@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<p align="center">
+
+<a href="https://saifahmadin.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/UI%2FUX%20Portfolio-000000?style=for-the-badge&logo=figma&logoColor=white"/>
+</a>
+
+<a href="https://saifahmad07.vercel.app/" target="_blank">
+<img src="https://img.shields.io/badge/Developer%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/saifahmad007" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/saifahmad786sm" target="_blank">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://instagram.com/saif_007s" target="_blank">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://youtube.com/@saif007s" target="_blank">
+<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+</a>
+
 </p>
 
-<p align="center"><i>Open to AI Engineering, Product Design, and Full Stack roles — let's build something intelligent together.</i></p>
+---
+
+# 💬 Let's Build Something Intelligent
+
+I'm interested in collaborating on:
+
+**AI Products • Generative AI • LLM Applications • AI Agents • SaaS • Product Design • UI/UX • Developer Tools • Open Source**
+
+If you're building something ambitious, let's connect.
+
+<p align="center">
+  <b>Design → Build → Intelligence → Impact</b>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=saif007s&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+</p>
+
+<p align="center">
+  ⭐ If you find my projects useful, consider starring the repositories!
+</p>
