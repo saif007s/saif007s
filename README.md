@@ -1,23 +1,28 @@
 <h1 align="center">Hi 👋, I'm Saif Ahmad</h1>
 
 <h3 align="center">
-AI Engineer · UI/UX & Product Designer · Software Engineer
+AI Engineer · Generative AI · LLMs · RAG · AI Agents · Full-Stack Systems
 </h3>
 
 <p align="center">
-  <a href="https://saifahmadin.vercel.app/" target="_blank">UI/UX & Product Portfolio</a>
+  Building production-oriented AI systems that combine intelligent models,
+  scalable software architecture, and thoughtful product experiences.
+</p>
+
+<p align="center">
+  <a href="https://saifahmad07.vercel.app/" target="_blank">AI / Developer Portfolio</a>
   &nbsp;•&nbsp;
-  <a href="https://saifahmad07.vercel.app/" target="_blank">Developer Portfolio</a>
+  <a href="https://saifahmadin.vercel.app/" target="_blank">Product Design Portfolio</a>
   &nbsp;•&nbsp;
-  <a href="https://www.linkedin.com/in/saifahmad007" target="_blank">LinkedIn</a>
+  <a href="https://www.linkedin.com/in/saif-ahmad-007" target="_blank">LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="https://github.com/saif007s" target="_blank">GitHub</a>
+  <a href="mailto:saif@saifahmad07.vercel.app">Email</a>
 </p>
 
 <p align="center">
   <img
     src="img.png"
-    alt="Saif Ahmad - AI Engineer and Product Designer"
+    alt="Saif Ahmad — AI Engineer"
     width="850"
   />
 </p>
@@ -26,217 +31,81 @@ AI Engineer · UI/UX & Product Designer · Software Engineer
   <a href="https://github.com/saif007s">
     <img src="https://komarev.com/ghpvc/?username=saif007s&label=Profile%20Views&style=flat" alt="Profile Views"/>
   </a>
+  <a href="https://github.com/saif007s?tab=followers">
+    <img src="https://img.shields.io/github/followers/saif007s?label=Followers&style=flat" alt="GitHub Followers"/>
+  </a>
 </p>
 
 ---
 
 ## 👨‍💻 About Me
 
-I'm **Saif Ahmad**, an **AI Engineer and UI/UX & Product Designer** focused on building intelligent, scalable, and user-centered digital products.
+I'm **Saif Ahmad**, an **AI Engineer** focused on designing and building intelligent software systems powered by **Generative AI, LLMs, RAG, AI Agents, and modern full-stack technologies**.
 
-I work at the intersection of:
+I enjoy working across the complete AI product lifecycle:
 
-**Artificial Intelligence · Machine Learning · Software Engineering · Product Design · Human-Computer Interaction**
+**Problem → Data → Architecture → AI System → Product → Evaluation → Deployment → Iteration**
 
-I enjoy taking products from:
+My engineering approach combines **AI/ML, backend engineering, cloud infrastructure, and product design** to turn complex ideas into reliable and usable software.
 
-**Problem → Research → Architecture → Design → Development → AI Integration → Deployment**
+### What I Build
 
-### What I work with
+* 🤖 Production-oriented **Generative AI & LLM applications**
+* 🔎 **RAG and enterprise knowledge systems**
+* 🧩 **AI Agents & multi-agent workflows**
+* 🛠️ **AI developer tools and coding assistants**
+* 🧠 **Machine Learning & Deep Learning systems**
+* 💻 **Full-Stack AI applications and SaaS products**
+* ☁️ **Cloud-native and containerized AI services**
+* 📊 **AI evaluation, monitoring, and inference pipelines**
 
-- 🤖 **AI Engineering** — LLMs, RAG, Generative AI, AI Agents
-- 🧠 **Machine Learning** — ML, Deep Learning, NLP & Computer Vision
-- 🔎 **AI Search** — Embeddings, Vector Search & Semantic Retrieval
-- 🧩 **AI Agents** — Tool Calling, MCP & Agentic Workflows
-- 💻 **Software Engineering** — Python, FastAPI, React & Next.js
-- ☁️ **Cloud & MLOps** — Docker, CI/CD & Cloud Deployment
-- 🎨 **Product Design** — UX Research, UI Design & Design Systems
-- 🚀 **Product Development** — From idea to working product
-
-> **Build intelligent technology. Design thoughtful experiences. Create meaningful impact.**
+> **Build intelligent systems. Engineer reliable software. Design meaningful experiences.**
 
 ---
 
-# 🎯 Core Expertise
+# 🧠 Core Expertise
 
-| Area | Focus |
-|---|---|
-| 🤖 **AI Engineering** | LLMs, RAG, Generative AI, AI Agents |
-| 🧠 **Machine Learning** | ML, Deep Learning, NLP, Computer Vision |
-| 🔎 **AI Search** | Embeddings, Vector Search, Semantic Search |
-| 🧩 **AI Agents** | Tool Calling, MCP, Agentic Workflows |
-| 💻 **Software Engineering** | Python, APIs, React, Next.js |
-| ⚙️ **Backend Engineering** | FastAPI, Flask, Node.js, REST APIs |
-| ☁️ **Cloud & MLOps** | Docker, CI/CD, AWS, GCP |
-| 🎨 **UI/UX Design** | UX Research, Interaction Design, Prototyping |
-| 📦 **Product Design** | 0→1 Products, MVPs, Product Strategy |
-| 🧱 **Design Systems** | Components, Tokens, Variables, Accessibility |
-
----
-
-# 🤖 AI Engineering
-
-### Artificial Intelligence
-
-- Generative AI
-- Large Language Models
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
-- Computer Vision
-- Multimodal AI
-- Recommendation Systems
-- AI Automation
-- Model Evaluation
-- Feature Engineering
-- Data Preprocessing
-
-### LLM Engineering
-
-- LLM Application Development
-- Prompt Engineering
-- Context Engineering
-- Embeddings
-- Structured Outputs
-- Function Calling
-- Tool Calling
-- LLM Evaluation
-- Model Integration
-- AI Workflows
-
-### Retrieval-Augmented Generation
-
-- RAG Architecture
-- Document Processing
-- Chunking Strategies
-- Embedding Pipelines
-- Vector Databases
-- Semantic Search
-- Hybrid Search
-- Metadata Filtering
-- Retrieval Pipelines
-- Reranking
-- Context Optimization
-- RAG Evaluation
-
-### AI Agents
-
-- Agent Architecture
-- Tool Use
-- Function Calling
-- Agentic Workflows
-- Planning
-- Memory Systems
-- Multi-Agent Systems
-- MCP
-- API Integration
-- Workflow Automation
+| Domain                      | Expertise                                                                       |
+| --------------------------- | ------------------------------------------------------------------------------- |
+| 🤖 **AI Engineering**       | Generative AI · LLMs · AI Agents · Agentic Systems · AI Architecture            |
+| 🔎 **RAG & Search**         | Advanced RAG · Embeddings · Vector Search · Hybrid Retrieval · Reranking        |
+| 🧠 **Machine Learning**     | ML · Deep Learning · NLP · Transformers · Computer Vision                       |
+| 🧩 **Agent Engineering**    | Tool Calling · Function Calling · MCP · Planning · Memory · Multi-Agent Systems |
+| 💻 **Software Engineering** | Python · TypeScript · APIs · System Design · Distributed Systems                |
+| ⚙️ **Backend**              | FastAPI · Flask · Node.js · REST APIs · Async Systems · Microservices           |
+| 🌐 **Frontend**             | React · Next.js · TypeScript · Tailwind CSS                                     |
+| 🗄️ **Data**                | PostgreSQL · MySQL · MongoDB · Redis · Vector Databases                         |
+| ☁️ **Cloud & DevOps**       | Docker · CI/CD · GitHub Actions · Cloud Deployment · Kubernetes                 |
+| 📈 **MLOps**                | Model Serving · Evaluation · Monitoring · Inference · Experimentation           |
+| 🎨 **Product Design**       | UX Research · UI Design · Interaction Design · Design Systems                   |
 
 ---
 
-# 🧠 Machine Learning & Data
-
-### Machine Learning
-
-- Supervised Learning
-- Unsupervised Learning
-- Classification
-- Regression
-- Clustering
-- Feature Engineering
-- Model Selection
-- Cross Validation
-- Hyperparameter Optimization
-- Model Evaluation
-
-### Deep Learning
-
-- Neural Networks
-- CNNs
-- RNNs
-- Transformers
-- Transfer Learning
-- Model Training
-- Fine-Tuning
-- PyTorch
-- TensorFlow
-
-### Data
-
-- NumPy
-- Pandas
-- Matplotlib
-- SQL
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-- Data Cleaning
-- Exploratory Data Analysis
-
----
-
-# 🎨 UI/UX & Product Design
-
-I combine **engineering + AI + product design** to create experiences that are both technically feasible and easy to use.
-
-### UX Design
-
-- User Research
-- User Interviews
-- Personas
-- Jobs-to-be-Done
-- User Journey Mapping
-- Information Architecture
-- User Flows
-- Wireframing
-- Prototyping
-- Usability Testing
-- Heuristic Evaluation
-- Accessibility
-- Interaction Design
-
-### Product Design
-
-- Product Discovery
-- Problem Definition
-- Design Thinking
-- 0→1 Product Design
-- MVP Design
-- Product Strategy
-- UX Strategy
-- Product Metrics
-- Conversion Optimization
-
-### Design Systems
-
-- Design Tokens
-- Typography Systems
-- Color Systems
-- Spacing Systems
-- Component Architecture
-- Variants
-- Figma Variables
-- Auto Layout
-- Responsive Design
-- Accessibility
-- Developer Handoff
-
-### Design Tools
-
-**Figma · FigJam · Framer · ProtoPie · Illustrator · Photoshop · Miro · Notion**
-
----
-
-# 💻 Software Engineering
+# 🛠️ Technology Stack
 
 ### Languages
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,html,css" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,sql,bash" />
 </p>
 
-**Python · TypeScript · JavaScript · Java · C · SQL**
+**Python · TypeScript · JavaScript · Java · C · SQL · Bash**
+
+### AI / Machine Learning
+
+<p>
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+</p>
+
+**PyTorch · TensorFlow · Transformers · Generative AI · LLMs · NLP · Deep Learning · Computer Vision**
+
+### LLM & AI Engineering
+
+**LangChain · LlamaIndex · LangGraph · CrewAI · RAG · Embeddings · Vector Search · Tool Calling · Function Calling · MCP · AI Evaluation · Prompt Engineering · Model Integration**
+
+### Backend & APIs
+
+**FastAPI · Flask · Node.js · Express.js · REST APIs · WebSockets · Async Programming · API Architecture**
 
 ### Frontend
 
@@ -244,214 +113,270 @@ I combine **engineering + AI + product design** to create experiences that are b
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind" />
 </p>
 
-- React
-- Next.js
-- TypeScript
-- JavaScript
-- HTML5
-- CSS3
-- Tailwind CSS
-- Bootstrap
-- Responsive Design
-- Component Architecture
+**React · Next.js · TypeScript · Tailwind CSS · Responsive Interfaces · Component Architecture**
 
-### Backend
-
-- Python
-- FastAPI
-- Flask
-- Node.js
-- Express.js
-- REST APIs
-- Authentication
-- API Integration
-- Backend Architecture
-- Microservices Fundamentals
-
-### Databases
+### Databases & Data
 
 <p>
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
 
-- PostgreSQL
-- MySQL
-- MongoDB
-- Redis
-- Database Design
-- Data Modeling
-- Query Optimization
+**PostgreSQL · MySQL · MongoDB · Redis · ChromaDB · FAISS · pgvector · Vector Databases · Data Pipelines**
 
----
-
-# ☁️ Cloud, DevOps & MLOps
+### Cloud & Infrastructure
 
 <p>
-  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,linux,git,github" />
+  <img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,linux,githubactions" />
 </p>
 
-- AWS
-- Google Cloud
-- Microsoft Azure
-- Docker
-- Git
-- GitHub
-- GitHub Actions
-- CI/CD
-- Linux
-- Vercel
-- Firebase
-- Model Deployment
-- API Deployment
-- ML Pipelines
-- Monitoring & Observability
-- MLOps Fundamentals
+**AWS · Google Cloud · Azure · Docker · Kubernetes · Linux · GitHub Actions · CI/CD · Cloud Deployment**
+
+### Engineering
+
+**Git · GitHub · Testing · Debugging · Code Review · System Design · Software Architecture · Distributed Systems · Performance Optimization · Documentation**
+
+### Product & Design
+
+**Figma · FigJam · Framer · ProtoPie · Adobe Creative Cloud · UX Research · Interaction Design · Design Systems · Prototyping**
 
 ---
 
-# 🛠️ Engineering Toolkit
+# 🔬 AI Engineering Focus
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,github,git,postman,docker,jupyter,figma,notion,linux" />
-</p>
+### Generative AI & LLM Applications
 
-**Development**
+* LLM application architecture
+* Prompt and context engineering
+* Structured outputs
+* Function and tool calling
+* Model integration
+* Multimodal AI
+* AI workflow automation
+* LLM evaluation
+* Inference optimization
 
-VS Code · Jupyter · Postman · Git · GitHub · REST APIs · JSON
+### Retrieval-Augmented Generation
 
-**Engineering Practices**
+* Document ingestion
+* Data preprocessing
+* Chunking strategies
+* Embedding pipelines
+* Vector databases
+* Semantic retrieval
+* Hybrid search
+* Metadata filtering
+* Reranking
+* Context optimization
+* Grounded generation
+* Retrieval evaluation
 
-Clean Code · Version Control · API Design · Testing · Documentation · Debugging · CI/CD · Code Review
+### Agentic AI
 
----
-
-# 🚀 Featured AI Projects
-
-## 🤖 AI Research Assistant
-
-An AI-powered research platform designed to retrieve, analyze, summarize and synthesize information from multiple knowledge sources.
-
-**Focus**
-
-`RAG` `LLMs` `Semantic Search` `Document Processing` `AI Evaluation`
-
-**Stack**
-
-`Python` `FastAPI` `React` `LLM APIs` `Vector Database`
-
----
-
-## 🧠 AI Coding Copilot
-
-A developer-focused AI assistant designed to understand project context, explain code, generate implementation suggestions and assist with debugging.
-
-**Focus**
-
-`Code Understanding` `RAG` `Tool Calling` `LLM Applications`
-
-**Stack**
-
-`Python` `LLMs` `Embeddings` `React` `TypeScript`
+* Agent architecture
+* Tool use
+* Planning
+* Memory
+* Workflow orchestration
+* Multi-agent systems
+* MCP
+* API integration
+* Autonomous task execution
 
 ---
 
-## 🔎 Multimodal AI Search
-
-A search platform designed to understand information across text, documents and visual content.
-
-**Focus**
-
-`Multimodal AI` `Embeddings` `Computer Vision` `Semantic Search`
-
-**Stack**
-
-`Python` `Computer Vision` `Vector Database` `React`
-
----
-
-## 🤖 Autonomous AI Agent
-
-An agentic AI system designed to break complex tasks into steps, select tools, execute workflows and return structured results.
-
-**Focus**
-
-`AI Agents` `Tool Calling` `MCP` `Planning` `Automation`
-
-**Stack**
-
-`Python` `LLMs` `APIs` `MCP` `Agent Workflows`
-
----
-
-# 🎨 Featured Product Design
-
-### 💳 FinTech Product
-
-End-to-end product experience covering research, information architecture, user flows, wireframes, high-fidelity UI and interactive prototypes.
-
-**Focus:** Financial UX · Mobile UX · Accessibility · Design Systems
-
----
-
-### 🚕 Mobility Platform
-
-Passenger and driver experiences covering booking, navigation, payments, trip management and real-time status.
-
-**Focus:** Complex Workflows · Mobile UX · Interaction Design
-
----
-
-### 📊 SaaS Analytics Dashboard
-
-A scalable analytics experience with dashboards, data visualization, filtering, tables and reusable components.
-
-**Focus:** SaaS UX · Data Visualization · Design Systems
-
----
-
-### 🏥 Healthcare Experience
-
-An accessible healthcare experience covering appointments, patient information, prescriptions and communication.
-
-**Focus:** Accessibility · Information Architecture · Healthcare UX
-
----
-
-# 🧭 How I Build Products
+# 🏗️ How I Engineer AI Systems
 
 ```text
-┌─────────────────────┐
-│       PROBLEM       │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│      RESEARCH       │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│  PRODUCT STRATEGY   │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ SYSTEM ARCHITECTURE │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│    UX / UI DESIGN   │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│    DEVELOPMENT      │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│   AI / ML SYSTEMS   │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│   TEST & DEPLOY     │
-└──────────┬──────────┘
-           ↓
-┌─────────────────────┐
-│ MEASURE & ITERATE   │
-└─────────────────────┘
+                    ┌─────────────────┐
+                    │     Problem     │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Data & Knowledge│
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ AI Architecture │
+                    └────────┬────────┘
+                             ↓
+             ┌───────────────┴───────────────┐
+             ↓                               ↓
+      ┌─────────────┐                 ┌─────────────┐
+      │ RAG / Search│                 │ AI Agents   │
+      └──────┬──────┘                 └──────┬──────┘
+             └───────────────┬───────────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Backend / APIs  │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Product / UI    │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Test & Evaluate │
+                    └────────┬────────┘
+                             ↓
+                    ┌─────────────────┐
+                    │ Deploy & Monitor│
+                    └─────────────────┘
+```
+
+I focus on building systems that are:
+
+**Reliable · Evaluated · Observable · Scalable · Secure · Maintainable**
+
+---
+
+# 🚀 Selected Projects
+
+### 🧠 NEXUS AI — Enterprise AI Platform
+
+A production-oriented AI platform combining **LLM applications, RAG, intelligent agents, model routing, and scalable backend infrastructure**.
+
+**Architecture**
+
+`AI Agents` `RAG` `Model Gateway` `Vector DB` `PostgreSQL` `Redis` `Kafka` `FastAPI` `Next.js` `Docker` `Kubernetes`
+
+**Engineering Focus**
+
+`Agent Orchestration` `Retrieval` `Inference` `Evaluation` `Distributed Systems` `Observability`
+
+---
+
+### 🔍 AI Code Reviewer
+
+An AI-powered developer tool designed to analyze code, identify potential issues, explain problems, and provide actionable engineering recommendations.
+
+**Capabilities**
+
+`Code Understanding` `LLMs` `RAG` `Static Analysis` `Security Review` `Architecture Review` `Tool Calling`
+
+**Stack**
+
+`Python` `FastAPI` `TypeScript` `Next.js` `LLMs` `Vector Search`
+
+---
+
+### 📚 RAG AI Agent
+
+A document-grounded AI agent capable of ingesting knowledge, retrieving relevant context, reasoning over information, and generating grounded responses.
+
+**Pipeline**
+
+`Documents → Processing → Chunking → Embeddings → Retrieval → Reranking → LLM → Grounded Response`
+
+**Stack**
+
+`Python` `LangChain` `LLMs` `Embeddings` `Vector Database`
+
+---
+
+### 🏗️ BuildMind AI
+
+An AI-powered application builder designed to transform natural-language requirements into functional full-stack applications.
+
+**Focus**
+
+`Generative AI` `Code Generation` `AI Agents` `Full-Stack Generation` `Sandboxed Execution`
+
+**Stack**
+
+`Next.js` `React` `TypeScript` `Prisma` `PostgreSQL` `AI APIs`
+
+---
+
+### 🎨 ArtFusion AI
+
+A generative AI SaaS platform for creating AI-powered visual content through a modern full-stack application.
+
+**Focus**
+
+`Generative AI` `Image Generation` `SaaS Architecture` `Async Processing`
+
+**Stack**
+
+`Next.js` `React` `PostgreSQL` `Drizzle` `AI APIs`
+
+---
+
+# 🎨 Product Design
+
+Alongside engineering, I have a strong interest in **UI/UX and Product Design**, particularly for AI-powered products.
+
+### Product Design Focus
+
+**UX Research · Information Architecture · User Flows · Wireframing · Prototyping · Interaction Design · Design Systems · Accessibility · Developer Handoff**
+
+### Design Tools
+
+**Figma · FigJam · Framer · ProtoPie · Adobe Creative Cloud**
+
+My design background helps me think beyond models and APIs and consider the complete product experience:
+
+**User Problem → Product Strategy → UX → AI Interaction → Engineering → Outcome**
+
+---
+
+# 📈 Engineering Principles
+
+I believe good AI engineering is more than connecting an LLM to an API.
+
+### I care about:
+
+* **Reliability** — predictable system behavior
+* **Evaluation** — measuring AI quality instead of guessing
+* **Scalability** — designing for growing workloads
+* **Observability** — understanding system behavior in production
+* **Security** — protecting data, models, APIs, and users
+* **Performance** — optimizing latency and resource usage
+* **Maintainability** — clean architecture and documentation
+* **User Experience** — making complex AI simple to use
+
+> **The goal isn't to build an impressive AI demo. The goal is to engineer an AI product that people can actually rely on.**
+
+---
+
+# 🔭 Currently Exploring
+
+* Advanced RAG architectures
+* Agentic AI systems
+* Multi-agent orchestration
+* Model Context Protocol (MCP)
+* Multimodal AI
+* AI evaluation and observability
+* LLM inference optimization
+* Distributed AI systems
+* AI infrastructure
+* Production MLOps
+
+---
+
+# 🤝 Open to Opportunities
+
+I'm interested in:
+
+**AI Engineering · Generative AI · LLM Applications · RAG · AI Agents · AI Developer Tools · Full-Stack AI · Machine Learning · MLOps · Open Source**
+
+I'm always interested in collaborating on ambitious products, challenging engineering problems, and open-source projects.
+
+📩 **Available for full-time AI Engineering opportunities and high-impact collaborations.**
+
+---
+
+# 🌐 Connect
+
+<p align="center">
+  <a href="https://saifahmad07.vercel.app/">Developer Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://saifahmadin.vercel.app/">Product Design Portfolio</a>
+  &nbsp;•&nbsp;
+  <a href="https://www.linkedin.com/in/saif-ahmad-007">LinkedIn</a>
+  &nbsp;•&nbsp;
+  <a href="https://github.com/saif007s">GitHub</a>
+</p>
+
+<p align="center">
+  <strong>Building intelligent systems. Engineering scalable software. Designing better products.</strong>
+</p>
