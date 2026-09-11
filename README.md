@@ -1,140 +1,176 @@
 <h1 align="center">Hi 👋, I'm Saif Ahmad</h1>
 
-<h3 align="center">AI Engineer • UI/UX & Product Designer • Creative Technologist</h3>
+<h3 align="center">AI Engineer · UI/UX & Product Designer · Software Engineer</h3>
 
 <p align="center">
-  <a href="https://saifahmadin.vercel.app/">UI/UX Portfolio</a> •
-  <a href="https://saifahmad07.vercel.app/">Developer Portfolio</a> •
-  <a href="https://github.com/saif007s">GitHub</a> •
-  <a href="https://www.linkedin.com/in/saifahmad007">LinkedIn</a>
+  <a href="https://saifahmadin.vercel.app/" target="_blank">UI/UX & Product Portfolio</a>
+  ·
+  <a href="https://saifahmad07.vercel.app/" target="_blank">Developer Portfolio</a>
+  ·
+  <a href="https://www.linkedin.com/in/saifahmad007" target="_blank">LinkedIn</a>
+  ·
+  <a href="https://github.com/saif007s" target="_blank">GitHub</a>
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/saif007s/saif007s/main/banner.png" alt="Saif Ahmad Banner" width="100%">
+  <a href="https://github.com/saif007s">
+    <img src="https://komarev.com/ghpvc/?username=saif007s&label=Profile%20Views&color=0e75b6&style=flat" alt="Saif Ahmad profile views"/>
+  </a>
 </p>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
 
-I'm **Saif Ahmad**, an **AI Engineer and UI/UX & Product Designer** from India, passionate about building intelligent, scalable, and user-centered digital products.
+I'm **Saif Ahmad**, an **AI Engineer and UI/UX & Product Designer** focused on building intelligent software products that combine strong engineering, practical AI, and thoughtful user experience.
 
-I work at the intersection of **Artificial Intelligence, Software Engineering, Product Design, and Human-Computer Interaction**.
+My interests sit at the intersection of:
 
-* 🤖 Building AI-powered applications, LLM workflows, RAG systems & intelligent agents
-* 🧠 Exploring Machine Learning, Deep Learning, Generative AI & NLP
-* 🎨 Designing intuitive, accessible & user-centered digital experiences
-* 💻 Developing full-stack applications and AI-powered products
-* 🔬 Interested in AI Agents, Multimodal AI, LLM Applications & AI Engineering
-* 🧩 Creating scalable design systems and high-fidelity prototypes in Figma
-* ☁️ Exploring cloud, MLOps, APIs, Docker & production AI systems
-* 🚀 Currently working on personal AI & product-design projects
-* 📚 Continuously learning and building in public
+**Artificial Intelligence · Machine Learning · Generative AI · Software Engineering · Product Design · Human-Computer Interaction**
 
-> **My goal:** Build technology that is intelligent under the hood and simple on the surface.
+I enjoy taking a problem from **idea → research → architecture → design → implementation → deployment**.
 
----
+### What I'm currently focused on
 
-## 🧑‍💻 What I Do
+* 🤖 Building production-oriented **LLM applications and AI systems**
+* 🧠 Learning and implementing **Machine Learning & Deep Learning**
+* 🔎 Developing **RAG pipelines, semantic search and knowledge systems**
+* 🧩 Exploring **AI agents, tool calling, MCP and agentic workflows**
+* 👁️ Exploring **multimodal AI and computer vision**
+* ⚙️ Building APIs and AI backends using **Python, FastAPI and Flask**
+* ☁️ Learning **Docker, cloud deployment and MLOps**
+* 🎨 Designing **user-centered digital products and scalable design systems**
+* 💻 Building modern interfaces using **React, Next.js and TypeScript**
+* 📚 Continuously improving through projects, experimentation and open-source learning
 
-| Area                    | Focus                                                |
-| ----------------------- | ---------------------------------------------------- |
-| 🤖 AI Engineering       | LLMs, RAG, AI Agents, GenAI, NLP, ML                 |
-| 🧠 Machine Learning     | Supervised Learning, Deep Learning, Model Evaluation |
-| ⚙️ AI Applications      | AI Assistants, Copilots, Search, Automation          |
-| 🎨 UI/UX Design         | User Research, Wireframes, Prototypes, Usability     |
-| 📦 Product Design       | 0→1 Products, Design Systems, Product Strategy       |
-| 💻 Software Engineering | Full-Stack Web Applications & APIs                   |
-| ☁️ Cloud & MLOps        | Docker, CI/CD, AWS, GCP, Model Deployment            |
-| 🔌 Backend              | Python, FastAPI, Flask, Node.js, REST APIs           |
-| 🗄️ Data                | SQL, PostgreSQL, MongoDB, Redis                      |
-| 🎯 Product Thinking     | User Problems → Research → Design → Build → Measure  |
+> **I believe the best technology is not only powerful—it is understandable, useful and delightful to use.**
 
 ---
 
-# 🤖 AI Engineering Skills
+# 🎯 Professional Focus
 
-### Artificial Intelligence & Machine Learning
+| Discipline                  | Core Focus                                            |
+| --------------------------- | ----------------------------------------------------- |
+| 🤖 **AI Engineering**       | LLM Applications, RAG, AI Agents, Generative AI       |
+| 🧠 **Machine Learning**     | ML, Deep Learning, NLP, Computer Vision               |
+| 🔎 **AI Search**            | Embeddings, Vector Search, Semantic Search, Reranking |
+| 🧩 **AI Agents**            | Tool Calling, MCP, Agentic Workflows, Automation      |
+| 💻 **Software Engineering** | Python, APIs, Full-Stack Applications                 |
+| ⚙️ **Backend Engineering**  | FastAPI, Flask, Node.js, REST APIs                    |
+| ☁️ **Cloud & MLOps**        | Docker, CI/CD, Cloud Deployment, Monitoring           |
+| 🎨 **UI/UX Design**         | Research, UX Architecture, Interaction Design         |
+| 📦 **Product Design**       | 0→1 Products, MVPs, Product Strategy                  |
+| 🧱 **Design Systems**       | Tokens, Components, Variables, Accessibility          |
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45"/>
-</p>
+---
 
-**Core AI**
+# 🤖 AI Engineering
 
+### Artificial Intelligence
+
+* Generative AI
+* Large Language Models
 * Machine Learning
 * Deep Learning
 * Natural Language Processing
 * Computer Vision
-* Generative AI
-* Large Language Models
-* Transformer Architectures
-* Embeddings
-* Semantic Search
+* Multimodal AI
 * Recommendation Systems
+* AI Automation
 * Model Evaluation
 * Feature Engineering
 * Data Preprocessing
-* Fine-Tuning
-* Prompt Engineering
 
-### 🧠 LLM & Generative AI
+### LLM Engineering
 
-* OpenAI APIs
 * LLM Application Development
-* Retrieval-Augmented Generation (RAG)
-* Vector Search
-* Embeddings
 * Prompt Engineering
-* Function Calling
-* Tool Use
-* AI Agents
-* Agentic Workflows
-* Multimodal AI
-* Structured Outputs
 * Context Engineering
+* Embeddings
+* Structured Outputs
+* Function Calling
+* Tool Calling
 * LLM Evaluation
-* AI Automation
+* Model Integration
+* AI Workflows
 
-### 🔎 RAG & AI Search
+### Retrieval-Augmented Generation
 
+* RAG Architecture
 * Document Processing
-* Chunking Strategies
+* Document Chunking
 * Embedding Pipelines
 * Vector Databases
-* Hybrid Search
 * Semantic Search
+* Hybrid Search
 * Metadata Filtering
 * Retrieval Pipelines
 * Reranking
 * Context Optimization
 * RAG Evaluation
 
-### 🤖 AI Agents
+### AI Agents
 
 * Agent Architecture
-* Tool Calling
-* Multi-Agent Systems
-* Workflow Automation
+* Tool Use
+* Function Calling
+* Agentic Workflows
+* Planning
 * Memory Systems
-* Planning & Reasoning Workflows
+* Multi-Agent Systems
 * MCP
-* API & Tool Integration
-* Autonomous Task Workflows
+* API Integration
+* Workflow Automation
+
+---
+
+# 🧠 Machine Learning & Data
+
+### Machine Learning
+
+* Supervised Learning
+* Unsupervised Learning
+* Classification
+* Regression
+* Clustering
+* Feature Engineering
+* Model Selection
+* Cross Validation
+* Hyperparameter Optimization
+* Model Evaluation
+
+### Deep Learning
+
+* Neural Networks
+* CNNs
+* RNNs
+* Transformers
+* Transfer Learning
+* Model Training
+* Model Fine-Tuning
+* PyTorch
+* TensorFlow
+
+### Data
+
+* NumPy
+* Pandas
+* Matplotlib
+* SQL
+* PostgreSQL
+* MySQL
+* MongoDB
+* Redis
+* Data Cleaning
+* Exploratory Data Analysis
 
 ---
 
 # 🎨 UI/UX & Product Design
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="45"/>
-</p>
+I combine engineering knowledge with product design to create interfaces that are technically feasible and genuinely useful.
 
-### UX Design
+### UX
 
 * User Research
 * User Interviews
@@ -160,8 +196,8 @@ I work at the intersection of **Artificial Intelligence, Software Engineering, P
 * Product Strategy
 * UX Strategy
 * Design Critique
-* Product Metrics
 * Conversion Optimization
+* Product Metrics
 
 ### Design Systems
 
@@ -169,50 +205,36 @@ I work at the intersection of **Artificial Intelligence, Software Engineering, P
 * Typography Systems
 * Color Systems
 * Spacing Systems
-* Components
+* Component Architecture
 * Variants
+* Figma Variables
 * Auto Layout
-* Variables
 * Responsive Design
 * Accessibility
 * Component Libraries
 * Developer Handoff
 
-### Tools
+### Design Tools
 
-* Figma
-* FigJam
-* Adobe Illustrator
-* Adobe Photoshop
-* Framer
-* ProtoPie
-* Miro
-* Notion
+**Figma · FigJam · Framer · ProtoPie · Adobe Illustrator · Adobe Photoshop · Miro · Notion**
 
 ---
 
 # 💻 Software Engineering
 
-### Languages
+### Programming Languages
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" alt="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" alt="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" alt="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" alt="C"/>
 </p>
 
-**Python • JavaScript • TypeScript • Java • C • SQL**
+**Python · TypeScript · JavaScript · Java · C · SQL**
 
 ### Frontend
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45"/>
-</p>
 
 * React
 * Next.js
@@ -222,8 +244,9 @@ I work at the intersection of **Artificial Intelligence, Software Engineering, P
 * CSS3
 * Tailwind CSS
 * Bootstrap
-* Responsive Web Design
+* Responsive Design
 * Component Architecture
+* Modern UI Development
 
 ### Backend
 
@@ -235,38 +258,35 @@ I work at the intersection of **Artificial Intelligence, Software Engineering, P
 * REST APIs
 * Authentication
 * API Integration
+* Backend Architecture
 * Microservices Fundamentals
 
 ### Databases
-
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="45"/>
-</p>
 
 * PostgreSQL
 * MySQL
 * MongoDB
 * Redis
 * Database Design
-* Query Optimization
 * Data Modeling
+* Query Optimization
 
 ---
 
 # ☁️ Cloud, DevOps & MLOps
 
 <p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="55"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="42" alt="Docker"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="52" alt="AWS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="42" alt="Google Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="42" alt="Linux"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="42" alt="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="42" alt="GitHub"/>
 </p>
 
 * AWS
 * Google Cloud
-* Azure
+* Microsoft Azure
 * Docker
 * Git
 * GitHub
@@ -283,71 +303,128 @@ I work at the intersection of **Artificial Intelligence, Software Engineering, P
 
 ---
 
-# 🛠️ Developer Tools
+# 🛠️ Engineering Toolkit
 
-<p>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="45"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45"/>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,c,react,nextjs,nodejs,fastapi,flask,postgres,mongodb,redis,docker,aws,gcp,azure,git,github,linux,figma,vscode,postman" alt="Technology stack"/>
 </p>
 
-**VS Code • Git • GitHub • Postman • Jupyter • Linux • npm • REST APIs • JSON • Markdown**
+**Development:** VS Code · Jupyter · Postman · npm · REST · JSON · Git · GitHub
+
+**Engineering Practices:** API Design · Version Control · Testing · Documentation · Code Review · CI/CD · Debugging
 
 ---
 
-# 🧪 AI Engineering Projects
+# 🚀 Featured AI Projects
 
-### 🤖 AI Research Assistant
+## 🤖 AI Research Assistant
 
-An intelligent research assistant capable of searching, retrieving, summarizing and synthesizing information using LLMs and RAG.
+An AI-powered research system designed to retrieve, analyze and synthesize information from multiple knowledge sources.
 
-**Tech:** Python • FastAPI • LLMs • RAG • Vector Database • React
+**Focus:** RAG · Semantic Search · LLMs · Document Processing · AI Evaluation
 
-### 🧠 AI Coding Copilot
-
-An AI-powered developer assistant that understands codebases, generates code, explains errors and assists with debugging.
-
-**Tech:** Python • LLM APIs • RAG • Embeddings • TypeScript • React
-
-### 🔎 Multimodal AI Search
-
-A semantic search platform capable of understanding text, images and documents through multimodal embeddings.
-
-**Tech:** Python • Embeddings • Vector Search • Computer Vision • LLMs
-
-### 🤖 Autonomous AI Agent
-
-An agentic AI system capable of planning tasks, selecting tools, executing actions and returning structured results.
-
-**Tech:** Python • LLMs • Tool Calling • MCP • APIs • Agent Workflows
+**Stack:** Python · FastAPI · React · LLM APIs · Vector Database
 
 ---
 
-# 🎨 Featured Product Design Projects
+## 🧠 AI Coding Copilot
 
-### 💳 FinTech Mobile Experience
+A developer-focused AI assistant designed to understand project context, explain code, generate implementation suggestions and assist with debugging.
 
-End-to-end UX process covering research, information architecture, user flows, wireframes, visual design and high-fidelity prototype.
+**Focus:** Code Understanding · RAG · Tool Calling · LLM Applications
 
-### 🚕 Mobility & Ride-Hailing Platform
-
-Designed passenger and driver experiences with booking flows, maps, payments, trip management and real-time status.
-
-### 📊 SaaS Analytics Dashboard
-
-Designed a scalable dashboard system with data visualization, filters, tables, responsive layouts and reusable components.
-
-### 🏥 Healthcare Experience
-
-Designed an accessible healthcare product focused on appointments, patient information, prescriptions and communication.
+**Stack:** Python · LLM APIs · Embeddings · React · TypeScript
 
 ---
 
-# 🔥 Current Focus
+## 🔎 Multimodal AI Search
+
+A search experience designed to understand and retrieve information across text, documents and visual content.
+
+**Focus:** Multimodal AI · Embeddings · Semantic Search · Vector Retrieval
+
+**Stack:** Python · Computer Vision · Embeddings · Vector Database · React
+
+---
+
+## 🤖 Autonomous AI Agent
+
+An agentic system designed to break complex tasks into steps, select appropriate tools, execute workflows and return structured results.
+
+**Focus:** AI Agents · Tool Calling · MCP · Planning · Automation
+
+**Stack:** Python · LLMs · APIs · MCP · Agent Workflows
+
+---
+
+# 🎨 Featured Product Design Work
+
+## 💳 FinTech Product Experience
+
+End-to-end product design covering discovery, information architecture, user flows, wireframes, high-fidelity UI and interactive prototypes.
+
+**Focus:** Financial UX · Mobile Experience · Accessibility · Design Systems
+
+---
+
+## 🚕 Mobility Platform
+
+Designed passenger and driver experiences across booking, navigation, payments, trip management and real-time status.
+
+**Focus:** Complex Workflows · Mobile UX · Maps · Interaction Design
+
+---
+
+## 📊 SaaS Analytics Platform
+
+Designed a scalable analytics experience with dashboards, data visualization, filtering, tables and reusable components.
+
+**Focus:** SaaS UX · Data Visualization · Design Systems · Responsive Design
+
+---
+
+## 🏥 Healthcare Experience
+
+Designed an accessible healthcare experience covering appointments, patient information, prescriptions and communication.
+
+**Focus:** Accessibility · Information Architecture · Healthcare UX
+
+---
+
+# 🧭 Engineering + Design Workflow
 
 ```text
-AI Engineering
+Problem
+   ↓
+Research
+   ↓
+Requirements
+   ↓
+UX / Product Strategy
+   ↓
+System Architecture
+   ↓
+Design
+   ↓
+Prototype
+   ↓
+Development
+   ↓
+AI / ML Integration
+   ↓
+Testing
+   ↓
+Deployment
+   ↓
+Measure & Iterate
+```
+
+---
+
+# 🔥 Current Learning & Focus
+
+```text
+AI ENGINEERING
 ├── Machine Learning
 ├── Deep Learning
 ├── NLP
@@ -358,16 +435,16 @@ AI Engineering
 ├── Multimodal AI
 └── MLOps
 
-Product Design
+PRODUCT DESIGN
 ├── UX Research
 ├── Product Strategy
-├── User Experience
 ├── Interaction Design
 ├── Design Systems
 ├── Prototyping
-└── Accessibility
+├── Accessibility
+└── Product Thinking
 
-Software Engineering
+SOFTWARE ENGINEERING
 ├── Python
 ├── FastAPI
 ├── React
@@ -380,15 +457,16 @@ Software Engineering
 
 ---
 
-# 📈 GitHub Activity
+# 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saif007s&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="180"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saif007s&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=saif007s&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&theme=tokyonight" height="180" alt="Saif Ahmad GitHub statistics"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=saif007s&hide_border=true&theme=tokyonight" height="180" alt="Saif Ahmad GitHub streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif007s&layout=compact&theme=tokyonight&hide_border=true&langs_count=10" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saif007s&layout=compact&langs_count=10&hide_border=true&theme=tokyonight" height="180" alt="Top programming languages"/>
 </p>
 
 ---
@@ -396,69 +474,73 @@ Software Engineering
 # 🏆 GitHub Achievements
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=saif007s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=saif007s&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8" alt="GitHub trophies"/>
 </p>
 
 ---
 
-# 📊 Contribution Graph
+# 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saif007s&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=saif007s&theme=tokyo-night&hide_border=true" alt="GitHub contribution graph"/>
 </p>
 
 ---
 
-# 🌐 Connect With Me
+# 🌐 Portfolio & Professional Links
 
 <p align="center">
 
 <a href="https://saifahmadin.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/UI%2FUX%20Portfolio-000000?style=for-the-badge&logo=figma&logoColor=white"/>
+<img src="https://img.shields.io/badge/UI%2FUX%20%26%20Product%20Portfolio-111111?style=for-the-badge&logo=figma&logoColor=white" alt="UI UX Portfolio"/>
 </a>
 
 <a href="https://saifahmad07.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/Developer%20Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Developer%20Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Developer Portfolio"/>
 </a>
 
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p align="center">
+
 <a href="https://www.linkedin.com/in/saifahmad007" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </a>
 
 <a href="https://twitter.com/saifahmad786sm" target="_blank">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+<img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
 </a>
 
 <a href="https://instagram.com/saif_007s" target="_blank">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
 </a>
 
 <a href="https://youtube.com/@saif007s" target="_blank">
-<img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white"/>
+<img src="https://img.shields.io/badge/YouTube-Subscribe-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"/>
 </a>
 
 </p>
 
 ---
 
-# 💬 Let's Build Something Intelligent
+# 💡 Let's Build the Future
 
-I'm interested in collaborating on:
+I'm open to collaborating on meaningful projects involving:
 
-**AI Products • Generative AI • LLM Applications • AI Agents • SaaS • Product Design • UI/UX • Developer Tools • Open Source**
+**AI Engineering · Generative AI · LLM Applications · RAG · AI Agents · Machine Learning · SaaS · Developer Tools · Product Design · UI/UX · Open Source**
 
-If you're building something ambitious, let's connect.
+If you're working on a challenging problem at the intersection of **AI, engineering and product experience**, I'd love to connect.
 
 <p align="center">
-  <b>Design → Build → Intelligence → Impact</b>
+  <strong>Build intelligently. Design thoughtfully. Ship consistently.</strong>
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saif007s&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
-</p>
-
-<p align="center">
-  ⭐ If you find my projects useful, consider starring the repositories!
+  <sub>Designed & engineered by Saif Ahmad</sub>
 </p>
