@@ -16,7 +16,7 @@ AI Engineer · UI/UX & Product Designer · Software Engineer
 
 <p align="center">
   <img
-    src="banner.jpeg"
+    src="img.png"
     alt="Saif Ahmad - AI Engineer and Product Designer"
     width="850"
   />
