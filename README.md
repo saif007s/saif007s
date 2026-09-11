@@ -10,13 +10,13 @@ AI Engineer · Generative AI · LLMs · RAG · AI Agents · Full-Stack Systems
 </p>
 
 <p align="center">
-  <a href="https://saifahmad07.vercel.app/" target="_blank">AI / Developer Portfolio</a>
+  <a href="https://saifahmad.vercel.app/" target="_blank">AI / Developer Portfolio</a>
   &nbsp;•&nbsp;
   <a href="https://saifahmadin.vercel.app/" target="_blank">Product Design Portfolio</a>
   &nbsp;•&nbsp;
   <a href="https://www.linkedin.com/in/saif-ahmad-007" target="_blank">LinkedIn</a>
   &nbsp;•&nbsp;
-  <a href="mailto:saif@saifahmad07.vercel.app">Email</a>
+  <a href="mailto:saifahmad786sm@gmail.com">Email</a>
 </p>
 
 <p align="center">
@@ -368,7 +368,7 @@ I'm always interested in collaborating on ambitious products, challenging engine
 # 🌐 Connect
 
 <p align="center">
-  <a href="https://saifahmad07.vercel.app/">Developer Portfolio</a>
+  <a href="https://saifahmad.vercel.app/">Developer Portfolio</a>
   &nbsp;•&nbsp;
   <a href="https://saifahmadin.vercel.app/">Product Design Portfolio</a>
   &nbsp;•&nbsp;
